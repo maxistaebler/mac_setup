@@ -1,2 +1,3 @@
-# mac_setup
-Files and descriptions on how I set up my MacBook
+# My MacSetup
+
+Files and descriptions on how I set up my MacBook.
